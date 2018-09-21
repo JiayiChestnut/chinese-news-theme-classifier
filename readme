@@ -1,2 +1,8 @@
+#1. ###Developed python module to index, analyze documents with NLTK in Python
+#2. ###Implemented calculation component and 10 fold cross-validation module to explore performance  
+###of combinations of different supervised-learning algorithms(SVM, random forest), feature 
+###importance calculation methods and feature numbers, finally achieved 98% accuracy
+
+
 example usage:
-python3 textClassificationMain.py corpus
+###python3 textClassificationMain.py corpus
